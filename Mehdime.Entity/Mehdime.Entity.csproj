@@ -8,4 +8,7 @@
   <ItemGroup>
     <Folder Include="Properties\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Remoting\Remoting.csproj" />
+  </ItemGroup>
 </Project>
