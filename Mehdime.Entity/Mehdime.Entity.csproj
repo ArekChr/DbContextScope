@@ -6,9 +6,6 @@
     <PackageReference Include="EntityFramework" Version="6.3.0" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Properties\" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\Remoting\Remoting.csproj" />
   </ItemGroup>
 </Project>
